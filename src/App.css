@@ -65,12 +65,12 @@ select {
   color: white;
 }
 
-.coverter-row:nth-of-type(even)>input[type="number"] {
+.coverter-row:nth-of-type(even) > input[type="number"] {
   color: #1793fe;
   border-bottom: 1px solid #1793fe;
 }
 
-.coverter-row:nth-of-type(even)>select {
+.coverter-row:nth-of-type(even) > select {
   color: #1793fe;
 }
 
