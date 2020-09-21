@@ -1,6 +1,6 @@
 {
   "homepage": "https://arvydasbliujus.github.io/currency-converter-app",
-  "name": "currency-converter",
+  "name": "currency-converter-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
