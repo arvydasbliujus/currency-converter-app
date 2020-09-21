@@ -1,6 +1,6 @@
 {
-  "homepage": "https://arvydasbliujus.github.io/currency-react-app",
-  "name": "currency-converter-app",
+  "homepage": "https://arvydasbliujus.github.io/currency-converter-app",
+  "name": "currency-converter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "predeploy": "npm run build",
