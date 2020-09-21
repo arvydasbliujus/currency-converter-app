@@ -1,3 +1,7 @@
+### Live demo [Currency converter app]
+
+(https://arvydasbliujus.github.io/currency-converter-app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
